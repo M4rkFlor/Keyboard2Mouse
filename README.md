@@ -5,6 +5,6 @@ I was inspired from the youtube video and need this to work with the both mouse 
 Modified to work with [Mouse2Keyboard](https://github.com/M4rkFlor/Mouse2Keyboard)  
 ## Whats new?
 * arrow keys for mouse movement  
-* right ctrl for left click  
-* numpad-0 for right click  
+* right ctrl for right click  
+* numpad-0 for left click  
 * works with Mouse2Keyboard  
